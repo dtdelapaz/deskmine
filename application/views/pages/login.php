@@ -71,7 +71,7 @@
 
 					<tr><td class="signup_label">Date of Birth:</td><td>
 						<select name="in_month" id="month" class="signup_field_month">
-							<option value="1"> January </option>
+							<option value="1"> Janu </option>
 							<option value="2"> February </option>
 							<option value="3"> March </option>
 							<option value="4"> April </option>
